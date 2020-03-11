@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "瀑布流图片",
+    "navigationBarTextStyle":"black"
+  }
+}
